@@ -46,25 +46,29 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background: rgb(0,0,0);
+	background: linear-gradient(0deg, rgba(200,200,200,1) 0%, rgba(255,255,255,1) 100%);
 }
 .about-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #EFDECD;
+    background: rgb(0,0,0);
+	background: linear-gradient(0deg, rgba(170,170,170,1) 0%, rgba(200,200,200,1) 100%);
 }
 .whatwedo-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background: rgb(0,0,0);
+	background: linear-gradient(0deg, rgba(140,140,140,1) 0%, rgba(170,170,170,1) 100%);
 }
 .contact-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #EFDECD;
+    background: rgb(0,0,0);
+	background: linear-gradient(0deg, rgba(110,110,110,1) 0%, rgba(140,140,140,1) 100%);
 }
 .navbar-default .navbar-nav > li > a:hover {
 	color: #333;
